@@ -1,0 +1,9 @@
+/* PHASE 8: Thumbs */
+.thumb img {
+  height: 58px;
+  width: 58px;
+}
+
+.thumb {
+  display: float;
+}
